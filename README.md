@@ -2,4 +2,4 @@
 
 Owned by SquidSaysNo#9071
 
-Discord Server : dsc.gg/sql
+Discord Server : https://dsc.gg/sql
